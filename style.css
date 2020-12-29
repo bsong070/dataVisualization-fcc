@@ -1,0 +1,22 @@
+body {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+
+svg{
+    background-color: grey;
+
+}
+
+g{
+    color: #17252a
+}
+
+html{
+    height:100%
+}
